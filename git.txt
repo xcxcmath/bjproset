@@ -1,0 +1,8 @@
+# change config belong to projects, if you have to do or you like to.
+
+# git config --global
+user.name BJKim
+user.email ___@icloud.com
+core.editor vim
+core.autocrlf >> windows=true, mac/linux=false
+
