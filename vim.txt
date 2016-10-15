@@ -18,6 +18,5 @@ set title
 set showmatch
 set wrap " auto LF
 set wmnu
-set paste!
 syntax on
 filetype indent on
